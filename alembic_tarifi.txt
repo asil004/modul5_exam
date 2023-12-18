@@ -1,0 +1,4 @@
+Alembicning vazifasi qachonki SQLAlchemy ORM bilan ma'lumotlar bazasi yaratilsa va uni serverga
+yoki boshqa joylarga deploy qilinsa,deploy qilingandan so'ng bazadagi tablelarni o'zgartirish imkonsiz bo'lib qoladi.
+Shuning uchun alembic yoziladi, bunda tablelarga turli xil o'zgartirishlar kiritib bo'ladi.Asosiy vazifasi table yoki databaseni
+o'zgartirishda qo'llaniladi.
